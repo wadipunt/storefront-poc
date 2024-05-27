@@ -1,0 +1,25 @@
+/* Styles for scrollbar within the component */
+.scrollbarContainer {
+    height: 100%; /* Adjust based on your component's needs */
+    overflow-y: auto;
+}
+
+/* Chrome, Safari, Edge */
+.scrollbarContainer::-webkit-scrollbar {
+    width: 8px;
+}
+
+.scrollbarContainer::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.scrollbarContainer::-webkit-scrollbar-thumb {
+    background-color: darkgray;
+    border-radius: 4px;
+}
+
+/* Firefox */
+.scrollbarContainer {
+    scrollbar-width: thin;
+    scrollbar-color: darkgray rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,81 @@
+{
+    "name": "Big Bass Splash",
+    "provider": {
+        "name": "Pragmatic Play",
+        "link": "blab"
+    },
+    "tileImagePath": "https://www.chanced.com/images/pragmatic/vs10txbigbass.webp",
+    "edge": 3,
+    "tags": [
+        {
+            "label": "Bonus By",
+            "link": "https://www.chanced.com"
+        },
+        {
+            "label": "Drops & Wins",
+            "link": "https://www.chanced.com"
+        },
+        {
+            "label": "Pragmatic Play",
+            "link": "https://www.chanced.com"
+        },
+        {
+            "label": "Recommended Games",
+            "link": "https://www.chanced.com"
+        },
+        {
+            "label":"Sea",
+            "link":"https://www.chanced.com"
+        },
+        {
+            "label":"Slots",
+            "link": "https://www.chanced.com"
+        }
+    ],
+    "bigWins": [
+        {
+            "rank": 1,
+            "date": "August 23, 2023",
+            "bet": 9000000000000,
+            "mutiplier": 18,
+            "payout": 158670000000000
+        },
+        {
+            "rank": 2,
+            "date": "August 23, 2023",
+            "bet": 498200003,
+            "mutiplier": 15,
+            "payout": 7274218249
+        },
+        {
+            "rank": 3,
+            "date": "August 23, 2023",
+            "bet": 4658000,
+            "mutiplier": 1074,
+            "payout": 158670000000000
+        }
+    ],
+    "luckyWins": [
+        {
+            "rank": 1,
+            "date": "August 23, 2023",
+            "bet": 9000000000000,
+            "mutiplier": 18,
+            "payout": 158670000000000
+        },
+        {
+            "rank": 2,
+            "date": "August 23, 2023",
+            "bet": 498200003,
+            "mutiplier": 15,
+            "payout": 7274218249
+        },
+        {
+            "rank": 3,
+            "date": "August 23, 2023",
+            "bet": 4658000,
+            "mutiplier": 1074,
+            "payout": 158670000000000
+        }
+    ]
+}

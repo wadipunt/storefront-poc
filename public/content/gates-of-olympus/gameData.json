@@ -1,0 +1,85 @@
+{
+    "name": "Gates of Olympus",
+    "provider": {
+        "name": "Pragmatic Play",
+        "link": "https://www.chanced.com"
+    },
+    "tileImagePath": "https://mediumrare.imgix.net/f79b83bc1408abd366a916e4e3b401dd76eb2a0cd31528067fcdb9072d5f7b1d?&dpr=1&format=auto&auto=format&q=50",
+    "edge": 3.5,
+    "tags": [
+        {
+            "label": "Bonus By",
+            "link": "https://www.chanced.com"
+        },
+        {
+            "label": "Greek",
+            "link": "https://www.chanced.com"
+        },
+        {
+            "label": "Pragmatic Play",
+            "link": "https://www.chanced.com"
+        },
+        {
+            "label": "Recommended Games",
+            "link": "https://www.chanced.com"
+        },
+        {
+            "label":"Volatility Switch",
+            "link":"https://www.chanced.com"
+        },
+        {
+            "label":"Slots",
+            "link": "https://www.chanced.com"
+        },
+        {
+            "label":"new tag",
+            "link": "https://www.chanced.com"
+        }
+    ],
+    "bigWins": [
+        {
+            "rank": 1,
+            "date": "March 22, 2024",
+            "bet": 1,
+            "mutiplier": 1,
+            "payout": 1
+        },
+        {
+            "rank": 2,
+            "date": "August 23, 2023",
+            "bet": 498200003,
+            "mutiplier": 15,
+            "payout": 7274218249
+        },
+        {
+            "rank": 3,
+            "date": "August 23, 2023",
+            "bet": 4658000,
+            "mutiplier": 1074,
+            "payout": 158670000000000
+        }
+    ],
+    "luckyWins": [
+        {
+            "rank": 1,
+            "date": "August 23, 2023",
+            "bet": 9000000000000,
+            "mutiplier": 18,
+            "payout": 158670000000000
+        },
+        {
+            "rank": 2,
+            "date": "August 23, 2023",
+            "bet": 498200003,
+            "mutiplier": 15,
+            "payout": 7274218249
+        },
+        {
+            "rank": 3,
+            "date": "August 23, 2023",
+            "bet": 4658000,
+            "mutiplier": 1074,
+            "payout": 158670000000000
+        }
+    ]
+}
